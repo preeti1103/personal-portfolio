@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This responsive and aesthetic site sho
 
 ## 📸 Live Demo
 
-![Live](https://preeti1103.github.io/personal-portfolio/)
+[Live](https://preeti1103.github.io/personal-portfolio/)
 
 ## Features
 

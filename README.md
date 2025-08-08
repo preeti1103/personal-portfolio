@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This responsive and aesthetic site showcases my projects, skills, experience, and contact links, built with HTML, CSS, and JavaScript.
 
 
-## 📸 Live Demo
+## Live Demo
 
 [Live](https://preeti1103.github.io/personal-portfolio/)
 

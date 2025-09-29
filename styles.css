@@ -277,7 +277,7 @@ section {
     max-width: 1200px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(800px, 1fr));
     gap: 2.5rem;
 }
 
@@ -667,7 +667,7 @@ footer p {
     transform: rotate(25deg);
 }
 
- @media (max-width: 768px) {
+@media (max-width: 768px) {
 
     /* Navigation */
     .nav-links {
